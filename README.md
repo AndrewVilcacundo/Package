@@ -10,13 +10,18 @@ Fecha: 20-Junio-2023
     ![](Images/package.png)
  3. Ejecución del archivo Main:
 	1. Main:
-	![]("C:\Users\POO\Pictures\menuu.png")
+	![menuu](https://github.com/AndrewVilcacundo/Package/assets/117743120/838b12e9-24e0-466c-a5e0-7d823b3bf610)
+
 	2. Parábola:
-	![]("C:\Users\POO\Pictures\Parabola.png")
+	![Parabola](https://github.com/AndrewVilcacundo/Package/assets/117743120/1ee91f47-fa72-484f-b18c-69bc85534c5b)
+
 	3. Hipérbola:
-	![]("C:\Users\POO\Pictures\Hiperbole.png")
+	![Hiperbole](https://github.com/AndrewVilcacundo/Package/assets/117743120/f81cc720-73e1-450b-bf1c-eb21d2a0e0c9)
+
 	4. Circunferencia:
-	![]("C:\Users\POO\Pictures\Circunferencia.png")
+	![Circunferencia](https://github.com/AndrewVilcacundo/Package/assets/117743120/518a6b1f-70ec-4f1c-a553-c4c3d903751b)
+")
 	5. Elipse:
-	![]("C:\Users\POO\Pictures\Elipse.png")
+	![Elipse](https://github.com/AndrewVilcacundo/Package/assets/117743120/32dd01cd-9802-445b-8ba4-8114a4cdcfd7)
+
 
