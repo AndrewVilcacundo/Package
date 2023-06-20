@@ -1,6 +1,6 @@
 ﻿# Packages en Java
-Realizado por: Bryan Delgado
-Fecha: 15-Junio-2023
+Realizado por: Andrew Vilcacundo
+Fecha: 20-Junio-2023
 
 ## Capturas del programa en ejecución
 
