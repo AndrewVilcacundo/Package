@@ -10,13 +10,13 @@ Fecha: 20-Junio-2023
     ![](Images/package.png)
  3. Ejecución del archivo Main:
 	1. Main:
-	![](Images/menuu.png)
+	![](Imágenes/menuu.png)
 	2. Parábola:
-	![](Images/Parabola.png)
+	![](Imágenes/Parabola.png)
 	3. Hipérbola:
-	![](Images/Hiperbole.png)
+	![](Imágenes/Hiperbole.png)
 	4. Circunferencia:
-	![](Images/Circunferencia.png)
+	![](Imágenes/Circunferencia.png)
 	5. Elipse:
-	![](Images/Elipse.png)
+	![](Imágenes/Elipse.png)
 
