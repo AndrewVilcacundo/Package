@@ -10,13 +10,13 @@ Fecha: 20-Junio-2023
     ![](Images/package.png)
  3. Ejecución del archivo Main:
 	1. Main:
-	![](Imágenes/menuu.png)
+	![]("C:\Users\POO\Pictures\menuu.png")
 	2. Parábola:
-	![](Imágenes/Parabola.png)
+	![]("C:\Users\POO\Pictures\Parabola.png")
 	3. Hipérbola:
-	![](Imágenes/Hiperbole.png)
+	![]("C:\Users\POO\Pictures\Hiperbole.png")
 	4. Circunferencia:
-	![](Imágenes/Circunferencia.png)
+	![]("C:\Users\POO\Pictures\Circunferencia.png")
 	5. Elipse:
-	![](Imágenes/Elipse.png)
+	![]("C:\Users\POO\Pictures\Elipse.png")
 
