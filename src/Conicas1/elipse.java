@@ -1,7 +1,6 @@
-package Conicas1;
+package conicas1;
 
-public class ELIPSEE {
-
+public class elipse {
     float a;
     float b;
     float c;
@@ -9,7 +8,7 @@ public class ELIPSEE {
     float y;
     float foco;
 
-    public ELIPSEE(float a, float b, float c, float x, float y, float foco) {
+    public elipse(float a, float b, float c, float x, float y, float foco) {
         this.a = a;
         this.b = b;
         this.c = c;
@@ -65,10 +64,11 @@ public class ELIPSEE {
         this.foco = h;
     }
     //UNO
-    private float distanciaSemiejes() {
+    public float distanciaSemiejes() {
+
         return this.foco = (this.a - this.b) / (this.a + this.b);
     }
-    private double perimetroElipse () {
+    public double perimetroElipse () {
         return (float) (3.14 * ((1 + 3 * this.foco) / (Math.pow((10 + (4 - 3 * this.foco)), 0.5))));
     }
     public float area ( float a, float b ){//donde "a" y "b" son los semiejes mayor y menor
@@ -82,8 +82,11 @@ public class ELIPSEE {
         fococ();
         return foco;
     }
-    public void fococ(){
+    public float fococ(){
         foco = (a*a) - (b*b);
+        return foco;
     }
-//final
+
+
+
 }

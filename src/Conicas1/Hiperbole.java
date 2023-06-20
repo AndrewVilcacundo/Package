@@ -1,7 +1,6 @@
-package Conicas1;
+package conicas1;
 
-public class Hiperbole{
-
+public class Hiperbole {
     //Atributos
     //Definimos variables generales
     float x, y, h, k, a, b, ecua_canon;

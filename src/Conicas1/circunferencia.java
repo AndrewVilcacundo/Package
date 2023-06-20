@@ -1,7 +1,6 @@
-package Conicas1;
+package conicas1;
 
-public class Circunferencia {
-
+public class circunferencia {
     float radio;
     float diametro;
 
@@ -14,7 +13,7 @@ public class Circunferencia {
 
 
     // creamos el constructor
-    public Circunferencia(float circunferencia, float radio, float diametro, float longitud, float area, float a_semicircunferencia) {
+    public circunferencia(float circunferencia, float radio, float diametro, float longitud, float area, float a_semicircunferencia) {
         this.radio = radio;
         this.diametro = diametro;
         this.longitud = longitud;
@@ -77,18 +76,22 @@ public class Circunferencia {
     }
 
     public void diametro() {
+
         diametro = 2 * this.radio;
     }
 
     public void longitud() {
+
         longitud = this.diametro * this.pi;
     }
 
     public void area() {
+
         area = (this.pi * this.pi) * this.radio;
     }
 
     public void a_semicircunferencia() {
+
         a_semicircunferencia = (this.pi * (this.radio * this.radio)) / 2;
     }
 
